@@ -1,0 +1,41 @@
+[{
+  "name": "CURD Operation",
+  "desc": "This React application demonstrates CRUD operations using Axios for API calls. It includes components for creating, editing, and displaying user data fetched from a mock API.",
+  "image": "Axios",
+  "category": "mern",
+  "links": {
+    "view": "https://steady-moonbeam-29fad4.netlify.app/",
+    "code": "https://github.com/jagadeeswarasurya/React-Axios-Task"
+  }
+},
+  {
+    "name": "Shopping Cart",
+    "desc": "A Shopping Cart Project is a web application that allows users to browse products, add them to a cart, update quantities, and proceed to checkout. Built using React.js (frontend).",
+    "image": "shoppingcart",
+    "category": "mern",
+    "links": {
+      "view": "https://bespoke-dasik-124425.netlify.app/",
+      "code": "https://github.com/jagadeeswarasurya/React-Shoppingcart-task2"
+    }
+  },
+  {
+    "name": "Recipe Finder App",
+    "desc": "The Recipe Finder App helps users find recipes based on the ingredients they have. Users can enter ingredients, and the app will fetch matching recipes from an API",
+    "image": "food",
+    "category": "mern",
+    "links": {
+      "view": "https://foodavaliability.netlify.app/",
+      "code": "https://github.com/jagadeeswarasurya/recipe-finder-app"
+    }
+  },
+  {
+    "name": "Fitness Tracker",
+    "desc": "Fitness Tracker is a MERN app that helps users set fitness goals, log workouts, track nutrition, and monitor progress.",
+    "image": "fitnesstracker",
+    "category": "mern",
+    "links": {
+      "view": "https://heroic-strudel-100efe.netlify.app/login",
+      "code": "https://github.com/jagadeeswarasurya/fitness-tracker-frontend"
+    }
+  }
+  ]
