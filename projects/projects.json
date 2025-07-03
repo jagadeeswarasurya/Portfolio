@@ -31,16 +31,12 @@
   },
   {
     "name": "Snack Attack – Smart Billing System",
-    "desc": "A minimal and intuitive MERN stack-based POS application designed for fast food counters. Easily manage dine-in and takeaway orders, track item quantities, and generate real-time bills with multiple payment options.",
+    "desc": "A minimal and intuitive MERN stack-based POS application designed for fast food counters. Easily manage dine-in and takeaway orders, track item quantities, and generate real-time bills with multiple payment options.credentials username: admin, password: 123456",
     "image": "Billingsf",
     "category": "mern",
     "links": {
       "view": "https://glittery-sable-42bc96.netlify.app/",
       "code": "https://github.com/jagadeeswarasurya/Billing"
-    },
-    "credentials": {
-      "username": "admin",
-      "password": "123456"
     }
   }
   
