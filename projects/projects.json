@@ -1,13 +1,4 @@
-[{
-  "name": "CURD Operation",
-  "desc": "This React application demonstrates CRUD operations using Axios for API calls. It includes components for creating, editing, and displaying user data fetched from a mock API.",
-  "image": "Axios",
-  "category": "mern",
-  "links": {
-    "view": "https://steady-moonbeam-29fad4.netlify.app/",
-    "code": "https://github.com/jagadeeswarasurya/React-Axios-Task"
-  }
-},
+[
   {
     "name": "Shopping Cart",
     "desc": "A Shopping Cart Project is a web application that allows users to browse products, add them to a cart, update quantities, and proceed to checkout. Built using React.js (frontend).",
@@ -36,6 +27,16 @@
     "links": {
       "view": "https://heroic-strudel-100efe.netlify.app/login",
       "code": "https://github.com/jagadeeswarasurya/fitness-tracker-frontend"
+    }
+  },
+  {
+    "name": "Snack Attack – Smart Billing System",
+    "desc": "A minimal and intuitive MERN stack-based POS application designed for fast food counters. Easily manage dine-in and takeaway orders, track item quantities, and generate real-time bills with multiple payment options.",
+    "image": "Billingsf",
+    "category": "mern",
+    "links": {
+      "view": "https://glittery-sable-42bc96.netlify.app/",
+      "code": "https://github.com/jagadeeswarasurya/Billing"
     }
   }
   ]
