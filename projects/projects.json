@@ -37,6 +37,11 @@
     "links": {
       "view": "https://glittery-sable-42bc96.netlify.app/",
       "code": "https://github.com/jagadeeswarasurya/Billing"
+    },
+    "credentials": {
+      "username": "admin",
+      "password": "123456"
     }
   }
+  
   ]
